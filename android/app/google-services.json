@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445172616130",
+    "project_id": "test-rn-pushnotif-v1",
+    "storage_bucket": "test-rn-pushnotif-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445172616130:android:6cdc88777c2f362aa1245b",
+        "android_client_info": {
+          "package_name": "com.rn_pushnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445172616130-b6t8c7i5bfcg8jo25i7jtb8ofu765hj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADg_eBOve6ELOfSdo_SwvLEjL2MLLsq-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445172616130-b6t8c7i5bfcg8jo25i7jtb8ofu765hj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
